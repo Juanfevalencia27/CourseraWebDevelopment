@@ -1,0 +1,17 @@
+.nav > li > a{
+
+  text-align: center;
+}
+.name-supra3{
+  height: 1000px;
+}
+
+.navbar-inverse .navbar-brand {
+    color: red;
+}
+body {
+  padding-top: 70px;
+}
+.text-center{
+  font-size: x-large;
+}
